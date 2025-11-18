@@ -616,7 +616,7 @@ Patterns in Action:
 * Lines 27-52: Complete workflow
 
 How it works:
-1. user sends request
+1. User sends request
 2. Guardrail blocks unsafe inputs
 3. Agent analyzes request (Chain step 1)
 4. Agent gets additional data if needed (Tool)
