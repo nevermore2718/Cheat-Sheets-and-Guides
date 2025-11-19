@@ -6,4 +6,4 @@
 ## Guides
 [Buliding An AI Agent](https://github.com/nevermore2718/Cheat-Sheets/blob/main/Building%20An%20AI%20Agent.md)
 
-## Study Notes
+## Study Guides
